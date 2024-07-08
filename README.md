@@ -18,4 +18,4 @@ pip install -r requirements.txt
 ```
 streamlit run app.py
 ```
-#### [Anusha Tomar](https://github.com/anushatomar13/)
+### [Anusha Tomar](https://github.com/anushatomar13/)
