@@ -1,0 +1,51 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; 
+}
+
+
+.stApp {
+    font-family: 'Arial', sans-serif;
+    flex: 1;
+    background-color: black; 
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Georgia', serif;
+}
+
+
+.stButton>button {
+    color: #4F8BF9;
+    border-radius: 50px;
+    height: 3em;
+    width: 100%;
+}
+
+
+.custom-text {
+    font-style: oblique;
+    font-size: 16px;
+    font-weight: bolder;
+    color: #824ff9;
+}
+
+
+.footer {
+    color: white;
+    text-align: center;
+    margin-top: auto;
+    padding: 10px 0;
+    width: 100%;
+    background-color: #333; 
+}
+
+.footer p {
+    margin: 0;
+}
